@@ -1,11 +1,10 @@
 ### Howyagarn? 👋
 
-I'm Andrew. I'm a Husband, Father and ServiceNow developer living near Brisbane, Australia. 
+I'm Andrew. I'm a Husband, Father and ServiceNow developer living near Brisbane, Australia 🦘. 
 
-[![me_square lol](https://andrew.alburydor.com/avi.webp)](https://andrew.alburydor.com)
+I was selected for the ServiceNow Developer MVP Program 3 times in a row!
 
 You can find me on linkedin, twitter, podcasts, youtube, the internet etc.
-
 
 ### Digital Badge Collection!?
 [![@dorsy99's Holopin board](https://holopin.io/api/user/board?user=dorsy99)](https://holopin.io/@dorsy99)
