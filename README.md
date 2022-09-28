@@ -1,4 +1,14 @@
-### Hi there 👋
+### Howyagarn? 👋
+
+I'm Andrew. I'm a Husband, Father and ServiceNow developer living near Brisbane, Australia. 
+
+[![me_square lol](https://andrew.alburydor.com/avi.webp)](https://andrew.alburydor.com)
+
+You can find me on linkedin, twitter, podcasts, youtube, the internet etc.
+
+
+### Digital Badge Collection!?
+[![@dorsy99's Holopin board](https://holopin.io/api/user/board?user=dorsy99)](https://holopin.io/@dorsy99)
 
 <!--
 **dorsy99/dorsy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
